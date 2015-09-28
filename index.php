@@ -1,4 +1,4 @@
-<?
+<?php
 $myFile = "signups.csv"; // the name of the file you're writing to
 
 if($_POST){
